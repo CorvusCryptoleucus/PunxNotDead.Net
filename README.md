@@ -1,2 +1,11 @@
-# punxnotdead.net
-A tribute to PunxNotDead.Net, a punk e-zine from ~1998-2001, hosted on GitHub Pages.
+# PunxNotDead.Net Replica
+
+This is a simple HTML page that serves as a tribute to PunxNotDead.Net, a (mostly) monthly e-zine dedicated to punk music and culture from the late 1990s to 2001. The website connected like-minded individuals, shared music reviews, and promoted the spirit of punk. Though the original site no longer exists, this page honors its legacy.
+
+## Website
+
+You can visit the website (here)[https://www.punxnotdead.net]
+
+## License
+
+This project is open source and available for anyone interested in punk culture and digital history.
